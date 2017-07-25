@@ -33,3 +33,8 @@ For example, this helps fill the following panels in Splunk Enterprise Security:
 2. (Optional) edit the random wait interval before downloading wsusscn2.cab from the CIFS share. This prevents the file server from being DDOSsed.
 3. (Optional) edit the local destination folder to which the wsusscn2.cab file is copied. Unfortunately you can't use the wsusscn2.cab file directly from a CIFS share directory.
 
+## Support
+
+This is an MIT licensed open source project without warranty of any kind. No
+support is provided. A public repository and issue tracker are available at
+[https://github.com/jorritfolmer/TA-mbsa](https://github.com/jorritfolmer/TA-mbsa)
